@@ -162,8 +162,9 @@ public class StorageManagerTest extends TestCase {
             new C().rec.invoke("");
             fail();
         }
-        catch (AssertionError e) {
-            assertTrue(e.getMessage().startsWith("Recursion detected on input: !!!"));
+        catch (IllegalStateException e) {
+            String message = e.getMessage();
+            assertTrue("Expected message starting with \"Recursion detected\", got: " + message, message.startsWith("Recursion detected on input: !!!"));
         }
     }
 
