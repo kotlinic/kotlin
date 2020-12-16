@@ -71,7 +71,7 @@ internal class FirLightAccessorMethodForSymbol(
                 !isPrivate &&
                 !(isParameter && (containingClass.isAnnotationType || containingClass.isEnum))
 
-        val nullabilityType = if (nullabilityApplicable) containingPropertySymbol.type
+        val nullabilityType = if (nullabilityApplicable) containingPropertySymbol.type.type
             .getTypeNullability(containingPropertySymbol, FirResolvePhase.IMPLICIT_TYPES_BODY_RESOLVE)
         else NullabilityType.Unknown
 
