@@ -19,6 +19,9 @@ internal class FirRefWithValidityCheck<out D : FirDeclaration>(fir: D, resolveSt
     private val firWeakRef = WeakReference(fir)
     private val resolveStateWeakRef = WeakReference(resolveState)
 
+    internal fun isCollected(): Boolean =
+        firWeakRef.get() == null && resolveStateWeakRef.get() == null
+
     inline fun <R> withFir(phase: FirResolvePhase = FirResolvePhase.RAW_FIR, crossinline action: (fir: D) -> R): R {
         token.assertIsValid()
         val fir = firWeakRef.get()
