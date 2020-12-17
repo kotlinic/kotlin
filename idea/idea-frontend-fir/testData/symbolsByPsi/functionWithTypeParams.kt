@@ -14,7 +14,7 @@ KtFirFunctionValueParameterSymbol:
   name: x
   origin: SOURCE
   symbolKind: NON_PROPERTY_PARAMETER
-  type: X
+  type: [] X
 
 KtFirFunctionSymbol:
   annotations: []
@@ -28,9 +28,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: foo
   origin: SOURCE
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: TOP_LEVEL
-  type: kotlin/Unit
+  type: [] kotlin/Unit
   typeParameters: [KtFirTypeParameterSymbol(X)]
   valueParameters: [KtFirFunctionValueParameterSymbol(x)]
   visibility: PUBLIC

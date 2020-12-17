@@ -13,9 +13,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: add
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -32,9 +32,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: add
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Unit
+  type: [] kotlin/Unit
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index), KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -51,9 +51,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: addAll
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index), KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC
@@ -70,9 +70,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: addAll
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC
@@ -89,9 +89,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: clear
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Unit
+  type: [] kotlin/Unit
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -108,9 +108,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: listIterator
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/collections/MutableListIterator<E>
+  type: [] kotlin/collections/MutableListIterator<E>
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -127,9 +127,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: listIterator
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/collections/MutableListIterator<E>
+  type: [] kotlin/collections/MutableListIterator<E>
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index)]
   visibility: PUBLIC
@@ -146,9 +146,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: remove
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -165,9 +165,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: removeAll
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC
@@ -184,9 +184,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: removeAt
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: E
+  type: [] E
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index)]
   visibility: PUBLIC
@@ -203,9 +203,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: retainAll
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC
@@ -222,9 +222,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: set
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: E
+  type: [] E
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index), KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -241,9 +241,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: subList
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/collections/MutableList<E>
+  type: [] kotlin/collections/MutableList<E>
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(fromIndex), KtFirFunctionValueParameterSymbol(toIndex)]
   visibility: PUBLIC
@@ -260,9 +260,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: contains
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -279,9 +279,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: containsAll
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC
@@ -298,9 +298,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: get
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: E
+  type: [] E
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index)]
   visibility: PUBLIC
@@ -317,9 +317,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: indexOf
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -336,9 +336,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: isEmpty
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -355,9 +355,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: iterator
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/collections/MutableIterator<E>
+  type: [] kotlin/collections/MutableIterator<E>
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -374,9 +374,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: lastIndexOf
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -397,10 +397,10 @@ KtFirKotlinPropertySymbol:
   modality: ABSTRACT
   name: size
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   setter: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   visibility: PUBLIC
 
 KtFirFunctionSymbol:
@@ -415,9 +415,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: equals
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -434,9 +434,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: hashCode
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -453,9 +453,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toString
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/String
+  type: [] kotlin/String
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC

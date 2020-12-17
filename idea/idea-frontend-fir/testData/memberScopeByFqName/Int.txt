@@ -13,9 +13,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: and
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -32,9 +32,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -51,9 +51,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -70,9 +70,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -89,9 +89,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -108,9 +108,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -127,9 +127,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: compareTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -146,9 +146,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: dec
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -165,9 +165,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -184,9 +184,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -203,9 +203,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -222,9 +222,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -241,9 +241,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -260,9 +260,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: div
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -279,9 +279,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: inc
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -298,9 +298,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: inv
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -317,9 +317,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -336,9 +336,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -355,9 +355,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -374,9 +374,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -393,9 +393,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -412,9 +412,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: minus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -431,9 +431,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: or
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -450,9 +450,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -469,9 +469,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -488,9 +488,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -507,9 +507,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -526,9 +526,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -545,9 +545,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: plus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -564,9 +564,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rangeTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/ranges/IntRange
+  type: [] kotlin/ranges/IntRange
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -583,9 +583,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rangeTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/ranges/IntRange
+  type: [] kotlin/ranges/IntRange
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -602,9 +602,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rangeTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/ranges/LongRange
+  type: [] kotlin/ranges/LongRange
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -621,9 +621,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rangeTo
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/ranges/IntRange
+  type: [] kotlin/ranges/IntRange
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -640,9 +640,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -659,9 +659,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -678,9 +678,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -697,9 +697,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -716,9 +716,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -735,9 +735,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: rem
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -754,9 +754,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: shl
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(bitCount)]
   visibility: PUBLIC
@@ -773,9 +773,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: shr
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(bitCount)]
   visibility: PUBLIC
@@ -792,9 +792,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -811,9 +811,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -830,9 +830,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -849,9 +849,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -868,9 +868,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -887,9 +887,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: times
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -906,9 +906,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toByte
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Byte
+  type: [] kotlin/Byte
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -925,9 +925,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toChar
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Char
+  type: [] kotlin/Char
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -944,9 +944,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toDouble
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Double
+  type: [] kotlin/Double
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -963,9 +963,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toFloat
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Float
+  type: [] kotlin/Float
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -982,9 +982,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toInt
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1001,9 +1001,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toLong
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Long
+  type: [] kotlin/Long
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1020,9 +1020,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toShort
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Short
+  type: [] kotlin/Short
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1039,9 +1039,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: unaryMinus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1058,9 +1058,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: unaryPlus
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1077,9 +1077,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: ushr
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(bitCount)]
   visibility: PUBLIC
@@ -1096,9 +1096,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: xor
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -1109,7 +1109,7 @@ KtFirConstructorSymbol:
   isPrimary: true
   origin: LIBRARY
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   valueParameters: []
   visibility: PRIVATE
 
@@ -1125,9 +1125,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: equals
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Boolean
+  type: [] kotlin/Boolean
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(other)]
   visibility: PUBLIC
@@ -1144,9 +1144,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: hashCode
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1163,9 +1163,9 @@ KtFirFunctionSymbol:
   modality: OPEN
   name: toString
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: kotlin/String
+  type: [] kotlin/String
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC
@@ -1180,7 +1180,7 @@ KtFirClassOrObjectSymbol:
   name: Companion
   origin: LIBRARY
   primaryConstructor: KtFirConstructorSymbol(<constructor>)
-  superTypes: [kotlin/Any]
+  superTypes: [[] kotlin/Any]
   symbolKind: MEMBER
   typeParameters: []
   visibility: PUBLIC

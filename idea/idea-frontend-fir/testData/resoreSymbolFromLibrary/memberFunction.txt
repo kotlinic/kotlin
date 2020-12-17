@@ -13,9 +13,9 @@ KtFirFunctionSymbol:
   modality: ABSTRACT
   name: get
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: MEMBER
-  type: E
+  type: [] E
   typeParameters: []
   valueParameters: [KtFirFunctionValueParameterSymbol(index)]
   visibility: PUBLIC

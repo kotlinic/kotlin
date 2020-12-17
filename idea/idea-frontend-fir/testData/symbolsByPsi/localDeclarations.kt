@@ -12,7 +12,7 @@ KtFirLocalVariableSymbol:
   name: q
   origin: SOURCE
   symbolKind: LOCAL
-  type: kotlin/Int
+  type: [] kotlin/Int
 
 KtFirFunctionSymbol:
   annotations: []
@@ -26,9 +26,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: aaa
   origin: SOURCE
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: LOCAL
-  type: kotlin/Unit
+  type: [] kotlin/Unit
   typeParameters: []
   valueParameters: []
   visibility: LOCAL
@@ -43,7 +43,7 @@ KtFirClassOrObjectSymbol:
   name: F
   origin: SOURCE
   primaryConstructor: KtFirConstructorSymbol(<constructor>)
-  superTypes: [kotlin/Any]
+  superTypes: [[] kotlin/Any]
   symbolKind: LOCAL
   typeParameters: []
   visibility: LOCAL
@@ -60,9 +60,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: yyy
   origin: SOURCE
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: TOP_LEVEL
-  type: kotlin/Unit
+  type: [] kotlin/Unit
   typeParameters: []
   valueParameters: []
   visibility: PUBLIC

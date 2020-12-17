@@ -20,10 +20,10 @@ KtFirKotlinPropertySymbol:
   modality: FINAL
   name: x
   origin: SOURCE
-  receiverTypeAndAnnotations: null
+  receiverType: null
   setter: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   visibility: PUBLIC
 
 KtFirPropertyGetterSymbol:
@@ -35,7 +35,7 @@ KtFirPropertyGetterSymbol:
   modality: FINAL
   origin: SOURCE
   symbolKind: TOP_LEVEL
-  type: kotlin/Int
+  type: [] kotlin/Int
   visibility: PUBLIC
 
 KtFirKotlinPropertySymbol:
@@ -54,10 +54,10 @@ KtFirKotlinPropertySymbol:
   modality: FINAL
   name: y
   origin: SOURCE
-  receiverTypeAndAnnotations: [] kotlin/Int
+  receiverType: [] kotlin/Int
   setter: null
   symbolKind: MEMBER
-  type: kotlin/Int
+  type: [] kotlin/Int
   visibility: PUBLIC
 
 KtFirClassOrObjectSymbol:
@@ -70,7 +70,7 @@ KtFirClassOrObjectSymbol:
   name: A
   origin: SOURCE
   primaryConstructor: KtFirConstructorSymbol(<constructor>)
-  superTypes: [kotlin/Any]
+  superTypes: [[] kotlin/Any]
   symbolKind: TOP_LEVEL
   typeParameters: []
   visibility: PUBLIC

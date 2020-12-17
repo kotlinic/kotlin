@@ -13,9 +13,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: listOf
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: TOP_LEVEL
-  type: kotlin/collections/List<T>
+  type: [] kotlin/collections/List<T>
   typeParameters: [KtFirTypeParameterSymbol(T)]
   valueParameters: [KtFirFunctionValueParameterSymbol(element)]
   visibility: PUBLIC
@@ -32,9 +32,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: listOf
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: TOP_LEVEL
-  type: kotlin/collections/List<T>
+  type: [] kotlin/collections/List<T>
   typeParameters: [KtFirTypeParameterSymbol(T)]
   valueParameters: []
   visibility: PUBLIC
@@ -51,9 +51,9 @@ KtFirFunctionSymbol:
   modality: FINAL
   name: listOf
   origin: LIBRARY
-  receiverTypeAndAnnotations: null
+  receiverType: null
   symbolKind: TOP_LEVEL
-  type: kotlin/collections/List<T>
+  type: [] kotlin/collections/List<T>
   typeParameters: [KtFirTypeParameterSymbol(T)]
   valueParameters: [KtFirFunctionValueParameterSymbol(elements)]
   visibility: PUBLIC

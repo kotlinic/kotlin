@@ -8,4 +8,4 @@ KtFirEnumEntrySymbol:
   name: SYNCHRONIZED
   origin: LIBRARY
   symbolKind: MEMBER
-  type: kotlin/LazyThreadSafetyMode
+  type: [] kotlin/LazyThreadSafetyMode

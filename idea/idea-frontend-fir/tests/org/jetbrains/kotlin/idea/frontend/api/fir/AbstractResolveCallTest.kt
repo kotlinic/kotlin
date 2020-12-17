@@ -100,12 +100,12 @@ private fun KtCall.stringRepresentation(): String {
                 if (valueParameters.isNotEmpty()) append(", ")
             }
             valueParameters.joinTo(this) { parameter ->
-                "${parameter.name}: ${parameter.typeAndAnnotations.type.render()}"
+                "${parameter.name}: ${parameter.type.type.render()}"
             }
             append(")")
-            append(": ${typeAndAnnotations.type.render()}")
+            append(": ${type.type.render()}")
         }
-        is KtParameterSymbol -> "$name: ${typeAndAnnotations.type.render()}"
+        is KtParameterSymbol -> "$name: ${type.type.render()}"
         is KtSuccessCallTarget -> symbol.stringValue()
         is KtErrorCallTarget -> "ERR<${this.diagnostic.message}, [${candidates.joinToString { it.stringValue() }}]>"
         is Boolean -> toString()

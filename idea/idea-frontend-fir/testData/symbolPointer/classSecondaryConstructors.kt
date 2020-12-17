@@ -10,7 +10,7 @@ KtFirConstructorSymbol:
   isPrimary: true
   origin: SOURCE
   symbolKind: MEMBER
-  type: A
+  type: [] A
   valueParameters: []
   visibility: PUBLIC
 
@@ -21,7 +21,7 @@ KtFirFunctionValueParameterSymbol:
   name: x
   origin: SOURCE
   symbolKind: NON_PROPERTY_PARAMETER
-  type: kotlin/Int
+  type: [] kotlin/Int
 
 KtFirConstructorSymbol:
   annotations: []
@@ -29,7 +29,7 @@ KtFirConstructorSymbol:
   isPrimary: false
   origin: SOURCE
   symbolKind: MEMBER
-  type: A
+  type: [] A
   valueParameters: Could not render due to java.lang.ClassCastException: org.jetbrains.kotlin.idea.frontend.api.fir.symbols.KtFirFunctionValueParameterSymbol cannot be cast to org.jetbrains.kotlin.idea.frontend.api.fir.symbols.KtFirConstructorValueParameterSymbol
   visibility: PUBLIC
 
@@ -40,7 +40,7 @@ KtFirFunctionValueParameterSymbol:
   name: y
   origin: SOURCE
   symbolKind: NON_PROPERTY_PARAMETER
-  type: kotlin/Int
+  type: [] kotlin/Int
 
 KtFirFunctionValueParameterSymbol:
   annotations: []
@@ -49,7 +49,7 @@ KtFirFunctionValueParameterSymbol:
   name: z
   origin: SOURCE
   symbolKind: NON_PROPERTY_PARAMETER
-  type: kotlin/String
+  type: [] kotlin/String
 
 KtFirConstructorSymbol:
   annotations: []
@@ -57,7 +57,7 @@ KtFirConstructorSymbol:
   isPrimary: false
   origin: SOURCE
   symbolKind: MEMBER
-  type: A
+  type: [] A
   valueParameters: Could not render due to java.lang.ClassCastException: org.jetbrains.kotlin.idea.frontend.api.fir.symbols.KtFirFunctionValueParameterSymbol cannot be cast to org.jetbrains.kotlin.idea.frontend.api.fir.symbols.KtFirConstructorValueParameterSymbol
   visibility: PUBLIC
 
@@ -71,7 +71,7 @@ KtFirClassOrObjectSymbol:
   name: A
   origin: SOURCE
   primaryConstructor: KtFirConstructorSymbol(<constructor>)
-  superTypes: [kotlin/Any]
+  superTypes: [[] kotlin/Any]
   symbolKind: TOP_LEVEL
   typeParameters: []
   visibility: PUBLIC
