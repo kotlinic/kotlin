@@ -52,6 +52,14 @@ internal class FirLazyDeclarationResolver(
             return lazyResolveDeclaration(containingProperty, moduleFileCache, toPhase, towerDataContextCollector)
         }
 
+        if (declaration is FirValueParameter && toPhase >= FirResolvePhase.IMPLICIT_TYPES_BODY_RESOLVE) {
+            val parameterContainer = declaration.ktDeclaration.getNonLocalContainingOrThisDeclaration()
+                ?: error("Cannot find containing declaration for KtParameter")
+            val parameterFirContainer = parameterContainer
+                .findSourceNonLocalFirDeclaration(firFileBuilder, declaration.session.firSymbolProvider, moduleFileCache)
+            return lazyResolveDeclaration(parameterFirContainer, moduleFileCache, toPhase, towerDataContextCollector)
+        }
+
         val firFile = declaration.getContainingFile()
             ?: error("FirFile was not found for\n${declaration.render()}")
         val provider = firFile.session.firIdeProvider
